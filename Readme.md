@@ -5,8 +5,8 @@
 <tr><td>Программное обеспечение:<td>Corel Draw версии 13 или выше
 <tr><td>Процессор:<td>с поддержкой SSE4.1. Алгоритм многопоточный - большое количество ядер приветствуется.</table>
 <h2>Установка</h2>
-<b>x86:</b>  Скопировать файл <a href=>DirectEnpackx86.cpg</a> в каталог "Draw\Plugins", если такого каталога нет - его необходимо создать<p>
-<b>x64:</b>  Скопировать файл <a href=>DirectEnpackx64.cpg</a> в каталог "Programs64\Addons"
+<b>x86:</b>  Скопировать файл <a href=https://github.com/fersatgit/DirectEnpack/releases/download/1.0/DirectEnpackx86.cpg>DirectEnpackx86.cpg</a> в каталог "Draw\Plugins", если такого каталога нет - его необходимо создать<p>
+<b>x64:</b>  Скопировать файл <a href=https://github.com/fersatgit/DirectEnpack/releases/download/1.0/DirectEnpackx64.cpg>DirectEnpackx64.cpg</a> в каталог "Programs64\Addons"
 <h2>Работа с аддоном</h2><ol>
 <li>Выделить объекты для компоновки
 <li>Запустить аддон при помощи иконки <img src=icon.ico> на панели "Стандарт"
